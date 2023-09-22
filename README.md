@@ -3,6 +3,8 @@
 Post messages to any channel from anywhere on the web! Just bring a token,
 channel ID, and something to say.
 
+https://github.com/zimeg/slack-webhooked/assets/18134219/d3ea95b5-0cfe-44bd-acce-1bad566b2fd7
+
 ## Readying this app
 
 A few quick actions must happen before you're posting messages to your webhook.
